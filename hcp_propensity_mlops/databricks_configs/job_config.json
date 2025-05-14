@@ -1,6 +1,6 @@
 {
   "name": "HCP Propensity Batch Job",
-  "existing_cluster_id": "<your-cluster-id>",
+  "existing_cluster_id": "1448267395137910",
   "notebook_task": {
     "notebook_path": "/Repos/<your-email>/hcp-propensity-mlops/notebooks/02_model_training"
   }

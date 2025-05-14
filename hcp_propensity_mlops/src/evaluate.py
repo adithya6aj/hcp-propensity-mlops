@@ -1,6 +1,6 @@
 # Evaluation metrics
 from sklearn.metrics import classification_report
-from src.data_prep import generate_data
+from hcp_propensity_mlops.src.data_prep import generate_data
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 
